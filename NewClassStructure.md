@@ -1,1 +1,0 @@
-What if we had a *cascading* teaching structure? So, we instructors teach a couple/few of the best students, they learn and apply and practice and all that, they then instruct and teach the level of students below them. We are instructors in that we are respnsible for this system functioning successfully with students actually learning.

@@ -1,0 +1,10 @@
+- Block of JS code that does everything using only variables and loops. No OOP. No objects.
+- See that some data structures and functions work together and only work together.
+- Notice that these data structures and functions can be bundled into a single entity.
+- Bundle them into a single entity. That's an object. An object has variables and methods.
+- See the same thing exactly in other parts of the application.
+- Bundle the other functions and data structures into entities as well.
+- This is why objects are useful. To bundle together data and operations on those data under a single entity.
+- Notice that the exact same objects are repeated throughout the application.
+- This is why there's classes. Since they're all identical and mean the same thing in real life, we create a class to describe them.
+- Then we instantiate objects from that class. This will make it easier for us to understand the code when we read it in the future.
